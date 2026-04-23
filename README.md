@@ -1,4 +1,4 @@
-# Federated Design Collaboration Prototype
+# People's Design System Collaboration Prototype
 
 A lightweight contribution model for improving shared government design systems without requiring shared Figma workspaces.
 
