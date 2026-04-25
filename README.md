@@ -10,8 +10,6 @@ Instead of duplicating components across teams, improvements can be developed lo
 
 # Why this exists
 
-Shared design systems often serve multiple teams, agencies, and external contributors—but many lack a structured space for proposing reusable improvements.
-
 As needs evolve, contributors may create local fixes, custom variants, or entirely separate components without a clear pathway for sharing improvements back with the broader system.
 
 This prototype explores a lightweight contribution model that creates a shared space for:
