@@ -1,4 +1,4 @@
-# People’s Design System Collaboration Prototype
+# USWDS System Collaboration Prototype
 
 A lightweight contribution model for improving shared design systems without requiring contributors to work inside a centralized Figma workspace.
 
