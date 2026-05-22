@@ -1,5 +1,7 @@
 # USWDS System Collaboration Prototype
 
+[United States Web Design System (USWDS)](https://designsystem.digital.gov/)
+
 A lightweight contribution model for improving shared design systems without requiring contributors to work inside a centralized Figma workspace.
 
 This prototype explores how individual designers, contractors, agencies, and external partners can propose improvements to shared components, patterns, and tokens while preserving a centralized source of truth.
