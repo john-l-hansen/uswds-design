@@ -75,12 +75,6 @@ They need:
 
 ---
 
-# Example
-
-<img width="3160" height="2737" alt="image" src="https://github.com/user-attachments/assets/36fb3b68-5e30-467c-8cbd-be50e643a5ec" />
-
----
-
 # Source of Truth
 
 This model separates responsibilities across platforms:
@@ -113,7 +107,7 @@ Each proposed improvement should include:
 - Figma link or local file reference  
 - reusability rationale  
 - accessibility considerations (if applicable)  
-- implementation notes  
+- implementation notes
 
 ---
 
@@ -160,6 +154,7 @@ Updates included:
 - added large variants across all button colors  
 - added hover interaction states for prototyping
 
-<img width="3241" height="2326" alt="image" src="https://github.com/user-attachments/assets/294bf35a-93ed-4393-9f37-0a6161d0c922" />
+<img width="2874" height="2326" alt="image" src="https://github.com/user-attachments/assets/bea6ca26-13c4-4c47-b9dc-3d2833621318" />
+
 
 ---
