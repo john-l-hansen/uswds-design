@@ -4,7 +4,7 @@
 
 This is an ongoing systems investigation exploring how distributed designers, contractors, agencies, and external contributors can propose, document, and review improvements to shared design systems without relying entirely on centralized Figma workflows.
 
-The investigation focuses on how Git-based contribution patterns, structured review processes, and reusable documentation may support scalable collaboration while preserving centralized governance and publication controls.
+The investigation focuses on how Git-based contribution patterns, structured review processes, reusable documentation, and lightweight AI-assisted workflows may support scalable collaboration while preserving centralized governance and publication controls.
 
 Instead of duplicating components across teams, improvements can be developed locally, validated, reviewed, versioned, and prepared for broader reuse.
 
@@ -37,9 +37,9 @@ The goal is to make shared systems easier to improve while preserving centralize
 
 # Current Workflow Observations
 
-Early discussions around this investigation have highlighted practical review constraints within existing Figma governance models.
+Early discussions and collaboration around this investigation have highlighted practical review constraints within existing Figma governance models.
 
-In some environments, contributors may still need to provide source `.fig` files directly for internal review, reposting, or controlled publication workflows.
+Current review workflows may still require contributors to pass source `.fig` files directly for internal review, reposting, or controlled publication processes.
 
 This investigation does not attempt to replace centralized governance.
 
@@ -53,6 +53,8 @@ Instead, it explores how Git-based contribution patterns can support:
 - distributed experimentation prior to adoption
 
 The goal is to reduce friction around collaborative improvement while preserving centralized ownership and publication controls.
+
+Additionally, ongoing migration and access-management complexities within enterprise and government Figma environments may further impact contribution workflows, review access, and publication models.
 
 ---
 
@@ -121,7 +123,7 @@ This approach explores how design workflows may adopt contribution and governanc
 
 # AI-Assisted Workflow Notes
 
-AI tools were used selectively throughout this investigation to support workflow validation and documentation clarity.
+AI tools were used selectively throughout this investigation to support workflow validation, documentation refinement, and implementation review.
 
 ChatGPT was used to help:
 
