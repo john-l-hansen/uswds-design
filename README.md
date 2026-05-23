@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-ongoing%20systems%20investigation-blue)
 
-<img width="1535" height="1024" alt="uswds-project-cover" src="https://github.com/user-attachments/assets/77ef87f5-341d-4404-92aa-3ccca87a7fc1" />
+<img width="1672" height="941" alt="uswds-project-cover" src="https://github.com/user-attachments/assets/90c0541f-5c63-4b48-937c-4f805e0d55be" />
 
 This is an ongoing systems investigation exploring how distributed designers, contractors, agencies, and external contributors can propose, document, and review improvements to shared design systems without relying entirely on centralized Figma workflows.
 
