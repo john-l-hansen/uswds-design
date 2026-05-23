@@ -75,6 +75,14 @@ They need:
 
 ---
 
+# Example
+
+<img width="2880" height="2048" alt="image" src="https://github.com/user-attachments/assets/c9fd3b6a-154c-4609-9501-05684e780d83" />
+<img width="2880" height="2048" alt="image" src="https://github.com/user-attachments/assets/ce7da635-7d7f-4bbd-a2bb-c801007a0d11" />
+<img width="2880" height="2048" alt="image" src="https://github.com/user-attachments/assets/1d6164ad-cf52-4ad7-8975-a4a78b622128" />
+
+---
+
 # Source of Truth
 
 This model separates responsibilities across platforms:
