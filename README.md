@@ -139,8 +139,7 @@ Updates included:
 - configurable leading mark types  
 - reduced structural duplication
 
-<img width="3478" height="2402" alt="image" src="https://github.com/user-attachments/assets/9f607912-5735-4b4d-911d-a60ffb10574f" />
-
+<img width="2874" height="2149" alt="image" src="https://github.com/user-attachments/assets/129ac39a-e15b-4974-8f03-dac7c84076df" />
 
 ---
 
