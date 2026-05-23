@@ -1,12 +1,12 @@
 # USWDS Collaboration Prototype
 
-![Status](https://img.shields.io/badge/status-proposed-blue)
+![Status](https://img.shields.io/badge/status-ongoing%20systems%20investigation-blue)
 
-This is a lightweight contribution prototype for improving shared design systems without requiriing contributors to work inside a centralized Figma workspace.
+This is a lightweight contribution prototype exploring how shared design systems can evolve through distributed collaboration workflows while preserving centralized governance and publication controls.
 
-This prototype explores how individual designers, contractors, agencies, and external partners can propose improvements to shared components, patterns, and tokens while preserving a centralized source of truth.
+This investigation explores how individual designers, contractors, agencies, and external partners can propose improvements to shared components, patterns, and tokens without requiring contributors to work directly inside a centralized Figma workspace.
 
-Instead of duplicating components across teams, improvements can be developed locally, validated, reviewed, versioned, and published for broader reuse.
+Instead of duplicating components across teams, improvements can be developed locally, validated, reviewed, versioned, and prepared for broader reuse.
 
 **References:**
 
@@ -22,7 +22,7 @@ Instead of duplicating components across teams, improvements can be developed lo
 
 As needs evolve, contributors may create local fixes, custom variants, or entirely separate components without a clear pathway for sharing improvements back with the broader system.
 
-This prototype explores a lightweight contribution model that creates a shared space for:
+This investigation explores a lightweight contribution model that creates a shared space for:
 
 - proposing component improvements  
 - validating reusable solutions  
@@ -31,7 +31,28 @@ This prototype explores a lightweight contribution model that creates a shared s
 - versioning design decisions  
 - publishing improvements for broader reuse  
 
-The goal is to make shared systems easier to improve without requiring every contributor to work in the same design file.
+The goal is to make shared systems easier to improve while preserving centralized ownership and governance models.
+
+---
+
+# Current Workflow Observations
+
+Early discussions around this investigation have highlighted practical review constraints within existing Figma governance models.
+
+In some environments, contributors may still need to provide source `.fig` files directly for internal review, reposting, or controlled publication workflows.
+
+This investigation does not attempt to replace centralized governance.
+
+Instead, it explores how Git-based contribution patterns can support:
+
+- proposal documentation  
+- version history  
+- structured review discussions  
+- reusable change tracking  
+- contribution transparency  
+- distributed experimentation prior to adoption
+
+The goal is to reduce friction around collaborative improvement while preserving centralized ownership and publication controls.
 
 ---
 
@@ -65,14 +86,14 @@ Release / Publish
 ↓  
 Cross-Team Adoption
 
-Contributors do not need direct access to a centralized Figma file.
+Contributors may not require direct access to a centralized Figma workspace during early exploration and proposal development.
 
-They need:
+They benefit from:
 
 - a local workspace  
 - documented improvements  
 - reusable solutions  
-- a clear review pathway  
+- a clear review path  
 - version control discipline  
 
 ---
@@ -94,7 +115,7 @@ Before submitting changes:
 3. Commit changes  
 4. Submit for review  
 
-This ensures design work remains versioned similarly to software contributions.
+This approach explores how design workflows may adopt contribution and governance patterns commonly used in software development.
 
 ---
 
@@ -130,9 +151,13 @@ Proposed updates should improve one or more of the following:
 # Example Submission
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/1fb001fc-1f29-48a0-8c01-7757bad94f3d" />
+
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2501447c-6ce8-43e1-a67b-c1511ba2919a" />
+
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2ad478f8-7c12-4e9a-a8b1-53170834b866" />
+
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/fa700d9c-ebf9-45ba-bd43-5c8b8092bc3f" />
+
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/b3135ca9-6393-4344-9be4-c83850937ce1" />
 
 ---
@@ -166,3 +191,24 @@ Updates included:
 <img width="2874" height="2149" alt="Button update contribution proposal document." src="https://github.com/user-attachments/assets/129ac39a-e15b-4974-8f03-dac7c84076df" />
 
 ---
+
+# Investigation Areas
+
+Current areas of exploration include:
+
+- federated design contribution workflows  
+- Git-based governance for design systems  
+- Figma publication and review constraints  
+- distributed experimentation models  
+- component scalability patterns  
+- reusable contribution documentation  
+- design system versioning strategies  
+- public-sector collaboration workflows
+
+---
+
+# Notes
+
+This repository is an active systems investigation and working prototype.
+
+Workflows, assumptions, and contribution patterns may evolve as additional governance, tooling, and operational constraints are identified through ongoing collaboration and review.
