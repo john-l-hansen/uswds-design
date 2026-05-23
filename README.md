@@ -1,4 +1,4 @@
-# USWDS Collaboration Prototype
+# United States Web Design System (USWDS) Collaboration Prototype
 
 ![Status](https://img.shields.io/badge/status-ongoing%20systems%20investigation-blue)
 
