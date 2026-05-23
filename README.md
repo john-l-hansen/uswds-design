@@ -1,4 +1,4 @@
-# USWDS System Collaboration Prototype
+# USWDS Collaboration Prototype
 
 ![Status](https://img.shields.io/badge/status-proposed-blue)
 
