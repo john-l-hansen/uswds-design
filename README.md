@@ -139,8 +139,6 @@ Updates included:
 - configurable leading mark types  
 - reduced structural duplication
 
-<img width="2874" height="2149" alt="image" src="https://github.com/user-attachments/assets/129ac39a-e15b-4974-8f03-dac7c84076df" />
-
 ---
 
 ## Button Flexibility Update
@@ -153,6 +151,6 @@ Updates included:
 - added large variants across all button colors  
 - added hover interaction states for prototyping
 
-<img width="2874" height="2149" alt="image" src="https://github.com/user-attachments/assets/078a2fb0-3e88-4dce-a8a0-47d95700e6a2" />
+<img width="2874" height="2149" alt="Button update contribution proposal document." src="https://github.com/user-attachments/assets/129ac39a-e15b-4974-8f03-dac7c84076df" />
 
 ---
