@@ -1,6 +1,5 @@
 # USWDS System Collaboration Prototype
 
-Resources
 Design: [USWDS Design Kit](https://www.figma.com/community/file/1440921849343185329)
 
 Development: [United States Web Design System (USWDS)](https://designsystem.digital.gov/)
