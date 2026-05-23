@@ -2,17 +2,18 @@
 
 ![Status](https://img.shields.io/badge/status-proposed-blue)
 
-[USWDS For Designers Repository](https://github.com/uswds/uswds-for-designers/?tab=readme-ov-file#coffee-january-2025-uswds-design-kit-for-figma-beta-03-uswds-3110)
-
-[USWDS Design Kit Figma File](https://www.figma.com/community/file/1440921849343185329)
-
-[United States Web Design System (USWDS) Documentation](https://designsystem.digital.gov/)
-
 This is a lightweight contribution prototype for improving shared design systems without requiriing contributors to work inside a centralized Figma workspace.
 
 This prototype explores how individual designers, contractors, agencies, and external partners can propose improvements to shared components, patterns, and tokens while preserving a centralized source of truth.
 
 Instead of duplicating components across teams, improvements can be developed locally, validated, reviewed, versioned, and published for broader reuse.
+
+References:
+[USWDS For Designers Repository](https://github.com/uswds/uswds-for-designers/?tab=readme-ov-file#coffee-january-2025-uswds-design-kit-for-figma-beta-03-uswds-3110)
+
+[USWDS Design Kit Figma File](https://www.figma.com/community/file/1440921849343185329)
+
+[United States Web Design System (USWDS) Documentation](https://designsystem.digital.gov/)
 
 ---
 
