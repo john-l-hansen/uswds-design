@@ -2,9 +2,9 @@
 
 ![Status](https://img.shields.io/badge/status-ongoing%20systems%20investigation-blue)
 
-This is a lightweight contribution prototype exploring how shared design systems can evolve through distributed collaboration workflows while preserving centralized governance and publication controls.
+This is an ongoing systems investigation exploring how distributed designers, contractors, agencies, and external contributors can propose, document, and review improvements to shared design systems without relying entirely on centralized Figma workflows.
 
-This investigation explores how individual designers, contractors, agencies, and external partners can propose improvements to shared components, patterns, and tokens without requiring contributors to work directly inside a centralized Figma workspace.
+The investigation focuses on how Git-based contribution patterns, structured review processes, and reusable documentation may support scalable collaboration while preserving centralized governance and publication controls.
 
 Instead of duplicating components across teams, improvements can be developed locally, validated, reviewed, versioned, and prepared for broader reuse.
 
@@ -116,6 +116,20 @@ Before submitting changes:
 4. Submit for review  
 
 This approach explores how design workflows may adopt contribution and governance patterns commonly used in software development.
+
+---
+
+# AI-Assisted Workflow Notes
+
+AI tools were used selectively throughout this investigation to support workflow validation and documentation clarity.
+
+ChatGPT was used to help:
+
+- validate Git branch and commit naming conventions  
+- refine the initial GitHub repository description  
+- spot-check component structure decisions during exploration and implementation  
+
+All workflow concepts, contribution models, component proposals, and investigation directions were developed and reviewed manually.
 
 ---
 
