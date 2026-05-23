@@ -8,7 +8,8 @@ This prototype explores how individual designers, contractors, agencies, and ext
 
 Instead of duplicating components across teams, improvements can be developed locally, validated, reviewed, versioned, and published for broader reuse.
 
-References:
+**References:**
+
 [USWDS For Designers Repository](https://github.com/uswds/uswds-for-designers/?tab=readme-ov-file#coffee-january-2025-uswds-design-kit-for-figma-beta-03-uswds-3110)
 
 [USWDS Design Kit Figma File](https://www.figma.com/community/file/1440921849343185329)
