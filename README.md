@@ -2,6 +2,8 @@
 
 ![Status](https://img.shields.io/badge/status-ongoing%20systems%20investigation-blue)
 
+<img width="1535" height="1024" alt="uswds-project-cover" src="https://github.com/user-attachments/assets/77ef87f5-341d-4404-92aa-3ccca87a7fc1" />
+
 This is an ongoing systems investigation exploring how distributed designers, contractors, agencies, and external contributors can propose, document, and review improvements to shared design systems without relying entirely on centralized Figma workflows.
 
 The investigation focuses on how Git-based contribution patterns, structured review processes, reusable documentation, and lightweight AI-assisted workflows may support scalable collaboration while preserving centralized governance and publication controls.
