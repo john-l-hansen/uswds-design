@@ -77,9 +77,7 @@ They need:
 
 # Example
 
-<img width="2880" height="2048" alt="image" src="https://github.com/user-attachments/assets/c9fd3b6a-154c-4609-9501-05684e780d83" />
-<img width="2880" height="2048" alt="image" src="https://github.com/user-attachments/assets/ce7da635-7d7f-4bbd-a2bb-c801007a0d11" />
-<img width="2880" height="2048" alt="image" src="https://github.com/user-attachments/assets/1d6164ad-cf52-4ad7-8975-a4a78b622128" />
+<img width="3160" height="2737" alt="image" src="https://github.com/user-attachments/assets/36fb3b68-5e30-467c-8cbd-be50e643a5ec" />
 
 ---
 
@@ -145,7 +143,10 @@ Updates included:
 - expanded/collapsed state handling  
 - optional leading mark visibility  
 - configurable leading mark types  
-- reduced structural duplication  
+- reduced structural duplication
+
+<img width="3478" height="2402" alt="image" src="https://github.com/user-attachments/assets/9f607912-5735-4b4d-911d-a60ffb10574f" />
+
 
 ---
 
@@ -157,6 +158,8 @@ Updates included:
 
 - consolidated default and large sizing into shared properties  
 - added large variants across all button colors  
-- added hover interaction states for prototyping  
+- added hover interaction states for prototyping
+
+<img width="3241" height="2326" alt="image" src="https://github.com/user-attachments/assets/294bf35a-93ed-4393-9f37-0a6161d0c922" />
 
 ---
