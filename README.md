@@ -33,6 +33,12 @@ This prototype explores a lightweight contribution model that creates a shared s
 
 The goal is to make shared systems easier to improve without requiring every contributor to work in the same design file.
 
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/1fb001fc-1f29-48a0-8c01-7757bad94f3d" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2501447c-6ce8-43e1-a67b-c1511ba2919a" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2ad478f8-7c12-4e9a-a8b1-53170834b866" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/fa700d9c-ebf9-45ba-bd43-5c8b8092bc3f" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/b3135ca9-6393-4344-9be4-c83850937ce1" />
+
 ---
 
 # Contribution Model
@@ -123,7 +129,14 @@ Proposed updates should improve one or more of the following:
 - maintainability  
 - consistency  
 - reduced duplication  
-- documentation clarity  
+- documentation clarity
+
+---
+
+# Example Submission
+
+<img width="3337" height="1706" alt="image" src="https://github.com/user-attachments/assets/340f2bd4-396f-4714-a103-21f08bdb9ca3" />
+
 
 ---
 
