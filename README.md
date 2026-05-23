@@ -154,7 +154,6 @@ Updates included:
 - added large variants across all button colors  
 - added hover interaction states for prototyping
 
-<img width="2874" height="2326" alt="image" src="https://github.com/user-attachments/assets/bea6ca26-13c4-4c47-b9dc-3d2833621318" />
-
+<img width="2874" height="2149" alt="image" src="https://github.com/user-attachments/assets/078a2fb0-3e88-4dce-a8a0-47d95700e6a2" />
 
 ---
