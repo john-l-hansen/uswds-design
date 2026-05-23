@@ -1,8 +1,10 @@
 # USWDS System Collaboration Prototype
 
-Design: [USWDS Design Kit](https://www.figma.com/community/file/1440921849343185329)
+[USWDS For Designers Repo](https://github.com/uswds/uswds-for-designers/?tab=readme-ov-file#coffee-january-2025-uswds-design-kit-for-figma-beta-03-uswds-3110)
 
-Development: [United States Web Design System (USWDS)](https://designsystem.digital.gov/)
+[USWDS Design Kit](https://www.figma.com/community/file/1440921849343185329)
+
+[United States Web Design System (USWDS)](https://designsystem.digital.gov/)
 
 This is a lightweight contribution prototype for improving shared design systems without requiriing contributors to work inside a centralized Figma workspace.
 
